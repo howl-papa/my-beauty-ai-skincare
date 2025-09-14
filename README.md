@@ -2,6 +2,11 @@
 
 > AI 기반 화장품 성분 분석 및 개인 맞춤형 뷰티 스킨케어 루틴 최적화 시스템
 
+My Beauty AI는 복잡하고 어려운 화장품 성분의 세계를 누구나 쉽게 이해하고, 자신의 피부에 가장 잘 맞는 제품을 찾을 수 있도록 돕는 서비스 입니다. 
+AI 기술과 RAG(Retrieval-Augmented Generation) 시스템을 결합하여, 두 개 이상의 화장품을 함께 사용할 때 발생할 수 있는 성분 간의 충돌을 분석하고, 아침과 저녁에 최적화된 스킨케어 루틴을 설계해 드립니다.
+
+단순한 제품 추천을 넘어, 과학적인 데이터를 기반으로 성분 간의 화학적 상호작용, 제형의 물리적 호환성, pH 레벨까지 고려하여 안전하고 효과적인 뷰티 경험을 제공합니다.
+
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com/)
 [![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0.9+-purple.svg)](https://www.llamaindex.ai/)
