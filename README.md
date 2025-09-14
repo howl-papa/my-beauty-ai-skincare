@@ -1,4 +1,4 @@
-# My Beauty AI 🌸
+# My Beauty AI
 
 > AI 기반 화장품 성분 분석 및 개인 맞춤형 뷰티 스킨케어 루틴 최적화 시스템
 
@@ -27,6 +27,10 @@
 ## 🎯 프로젝트 개요
 
 **My Beauty AI**는 복잡하고 어려운 화장품 성분의 세계를 누구나 쉽게 이해하고, 자신의 피부에 가장 잘 맞는 제품을 찾을 수 있도록 돕는 서비스 입니다. AI 기술과 RAG(Retrieval-Augmented Generation) 시스템을 결합하여, 두 개 이상의 화장품을 함께 사용할 때 발생할 수 있는 성분 간의 충돌을 분석하고, 아침과 저녁에 최적화된 스킨케어 루틴을 설계해 드립니다.
+
+프로젝트의 초기 기획 및 설계 과정이 궁금하시다면 아래 Miro 링크에서 확인하실 수 있습니다.
+
+[Miro 보드에서 초기 설계 보기](https://miro.com/welcomeonboard/aEorTGJXTGZVcU9ZZFRTaFBqNW5Fc0lYcCtkaUprTmd6K1Mwc0kvOXBmUWhQdEEvbWRNWXJqMHY1M1NJVEpZS2dZZlJlSEpGdjdiTVl3Z3hMZDR6Mm4zK2VwSVMyeWNuS1hvVktxejVpOWNjNDcyNTE0THpHTmQ4OUlGd1BBSWFnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?)
 
 ### 🌟 핵심 가치
 
