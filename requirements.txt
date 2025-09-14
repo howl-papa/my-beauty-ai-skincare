@@ -1,0 +1,130 @@
+# My Beauty AI - Python Dependencies
+# Core web framework
+flask==2.3.3
+flask-cors==4.0.0
+flask-sqlalchemy==3.0.5
+flask-migrate==4.0.5
+flask-jwt-extended==4.5.3
+
+# Alternative: FastAPI (uncomment if preferred)
+# fastapi==0.104.1
+# uvicorn==0.24.0
+
+# Database
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.23
+alembic==1.12.1
+
+# LlamaIndex and RAG
+llama-index==0.9.13
+llama-index-embeddings-openai==0.1.7
+llama-index-vector-stores-chroma==0.1.4
+llama-index-llms-openai==0.1.13
+
+# Vector database
+chromadb==0.4.18
+
+# OpenAI integration
+openai==1.3.7
+
+# Data processing
+pandas==2.1.3
+numpy==1.25.2
+scikit-learn==1.3.2
+
+# Natural language processing
+nltk==3.8.1
+spacy==3.7.2
+transformers==4.35.2
+
+# API and HTTP
+requests==2.31.0
+aiohttp==3.9.1
+
+# Configuration and environment
+python-dotenv==1.0.0
+pydantic==2.5.0
+pydantic-settings==2.0.3
+
+# Logging and monitoring
+loguru==0.7.2
+prometheus-client==0.19.0
+
+# Testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+pytest-cov==4.1.0
+httpx==0.25.2
+
+# Development tools
+black==23.11.0
+flake8==6.1.0
+mypy==1.7.1
+pre-commit==3.6.0
+
+# Documentation
+sphinx==7.2.6
+sphinx-rtd-theme==1.3.0
+
+# Security
+bcrypt==4.1.1
+cryptography==41.0.8
+python-jose[cryptography]==3.3.0
+
+# Caching
+redis==5.0.1
+
+# Task queue (optional)
+celery==5.3.4
+
+# Data validation
+marshmallow==3.20.1
+cerberus==1.3.5
+
+# Image processing (for product images)
+pillow==10.1.0
+
+# Date/time handling
+python-dateutil==2.8.2
+pytz==2023.3
+
+# HTTP server (production)
+gunicorn==21.2.0
+
+# Monitoring and health checks
+psutil==5.9.6
+
+# Mathematical operations
+scipy==1.11.4
+
+# Web scraping (for data collection)
+beautifulsoup4==4.12.2
+selenium==4.15.2
+
+# Email functionality
+smtplib2==0.2.1
+
+# Rate limiting
+slowapi==0.1.9
+
+# JSON handling
+orjson==3.9.10
+
+# UUID handling
+uuid==1.30
+
+# Progress bars
+tqdm==4.66.1
+
+# Configuration validation
+jsonschema==4.20.0
+
+# HTTP client with retries
+tenacity==8.2.3
+
+# Async database support
+asyncpg==0.29.0
+databases[postgresql]==0.8.0
+
+# Development server
+watchdog==3.0.0
